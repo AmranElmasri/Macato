@@ -34,7 +34,7 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 
 ---
 ## User Journey
-### User
+### User:
 * User can see the landing page or site overview after that he can register if he doesn't have an account and login if he has an account .
 * then he can see the menus if he chooses one he can see the chefs for each menu then he can choose any chef for that menu .
 * then he can add the data about the booking details .
@@ -42,7 +42,7 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 
 
 
-### Chef
+### Chef:
 * Chef can see the landing page or site overview after that he can register if he doesn't have an account and login if he has an account .
 * then he will add the name of cooking equipment and ingredients required for every menu food and type of food and arrival and departure time and his gender.
 * When cooking is complete he can get paid online or in person ...In the end he can submit feedback.
