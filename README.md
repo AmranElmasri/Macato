@@ -27,4 +27,7 @@ Macato allows users to hire a personal chef to come and cook for them at home in
 * I can select my gender.
 * I can get paid in person or online.
 * I can submit feedback for every order is done.
-* 
+
+### user flow chart:
+[link flow chart](https://lucid.app/lucidchart/1b18e5da-d4db-42e3-850e-1d2ec209d03a/edit?page=0_0&invitationId=inv_924827e6-e533-4ae8-b513-9e6250395b69#)
+![Macato](https://user-images.githubusercontent.com/88728652/169709896-0fdac683-e54c-4797-aced-85c02e88545c.png)
